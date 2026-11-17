@@ -1,7 +1,7 @@
 # Eredivisie
 Eredivisie machine learning model
 
-**kabollenbappers:** Daan Sijmens, Tristan Voermans & Tristan Veldkamp
+**Kabollenbappers:** Daan Sijmens, Tristan Voermans & Tristan Veldkamp
 
 |   | Goal Together with 2 friends i will spend 2 hours a week predicting Eredivisie matches using a model I build.|
 |---|---|
